@@ -3,11 +3,11 @@
         {
             "title"      : "Kotlin Dagger 2 MVP",
             "description": "Dagger 2.17 MVP com realm e retrofit com comandos para criação de activities",
-            "url"        : "https://github.com/murijr/dagger2-exemplos.git" 
+            "repository_url" : "https://github.com/murijr/dagger2-exemplos.git" 
         },{
             "title"      : "Rx 2 MVP",
             "description": "",
-            "url"        : "" 
+            "repository_url" : "" 
         }
     ]
 }
