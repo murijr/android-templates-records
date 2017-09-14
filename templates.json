@@ -14,7 +14,28 @@
             "description": "",
             "repository_url" : "https://github.com/googlesamples/android-architecture.git",
             "repository_branch" : "todo-mvp-rxjava"
+        },{
+            "title"      : "Google Sample Kotlin MVP",
+            "description": "",
+            "repository_url" : "https://github.com/googlesamples/android-architecture.git",
+            "repository_branch" : "dev-todo-mvp-kotlin"
+        },{
+            "title"      : "Google Sample Kotlin MVVM",
+            "description": "",
+            "repository_url" : "https://github.com/googlesamples/android-architecture.git",
+            "repository_branch" : "dev-todo-mvvm-live-kotlin"
+        },{
+            "title"      : "Google Sample Room MVP",
+            "description": "",
+            "repository_url" : "https://github.com/googlesamples/android-architecture.git",
+            "repository_branch" : "dev-todo-mvp-room"
+        },{
+            "title"      : "Google Sample RXJava MVVM",
+            "description": "",
+            "repository_url" : "https://github.com/googlesamples/android-architecture.git",
+            "repository_branch" : "dev-todo-mvvm-rxjava"
         }
+        
     ]
 }
 
