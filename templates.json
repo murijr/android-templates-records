@@ -3,7 +3,8 @@
         {
             "title"      : "Kotlin Dagger 2 MVP",
             "description": "",
-            "repository_url" : "https://github.com/murijr/dagger2-exemplos.git" 
+            "repository_url" : "https://github.com/murijr/dagger2-exemplos.git",
+            "repository_branch" : "master"
         },{
             "title"      : "Google Sample Dagger 2 MVP",
             "description": "",
