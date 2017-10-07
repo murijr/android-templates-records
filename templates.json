@@ -1,6 +1,11 @@
 {
     "templates":[
         {
+            "title"      : "Android Kotlin MVP Starter",
+            "description": "",
+            "repository_url" : "https://github.com/androidstarters/kotlin-android-starter.git",
+            "repository_branch" : "develop"
+        },{
             "title"      : "Kotlin Dagger 2 MVP",
             "description": "",
             "repository_url" : "https://github.com/murijr/dagger2-exemplos.git",
