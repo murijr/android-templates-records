@@ -14,32 +14,38 @@
             "title"      : "Google Sample Dagger 2 MVP",
             "description": "",
             "repository_url" : "https://github.com/googlesamples/android-architecture.git",
-            "repository_branch" : "todo-mvp-dagger"
+            "repository_branch" : "todo-mvp-dagger",
+            "project_dir": "todoapp"
         },{
             "title"      : "Google Sample RXJava MVP",
             "description": "",
             "repository_url" : "https://github.com/googlesamples/android-architecture.git",
-            "repository_branch" : "todo-mvp-rxjava"
+            "repository_branch" : "todo-mvp-rxjava",
+            "project_dir": "todoapp"
         },{
             "title"      : "Google Sample Kotlin MVP",
             "description": "",
             "repository_url" : "https://github.com/googlesamples/android-architecture.git",
-            "repository_branch" : "dev-todo-mvp-kotlin"
+            "repository_branch" : "dev-todo-mvp-kotlin",
+            "project_dir": "todoapp"
         },{
             "title"      : "Google Sample Kotlin MVVM",
             "description": "",
             "repository_url" : "https://github.com/googlesamples/android-architecture.git",
-            "repository_branch" : "dev-todo-mvvm-live-kotlin"
+            "repository_branch" : "dev-todo-mvvm-live-kotlin",
+            "project_dir": "todoapp"
         },{
             "title"      : "Google Sample Room MVP",
             "description": "",
             "repository_url" : "https://github.com/googlesamples/android-architecture.git",
-            "repository_branch" : "dev-todo-mvp-room"
+            "repository_branch" : "dev-todo-mvp-room",
+            "project_dir": "todoapp"
         },{
             "title"      : "Google Sample RXJava MVVM",
             "description": "",
             "repository_url" : "https://github.com/googlesamples/android-architecture.git",
-            "repository_branch" : "dev-todo-mvvm-rxjava"
+            "repository_branch" : "dev-todo-mvvm-rxjava",
+            "project_dir": "todoapp"
         }
         
     ]
