@@ -6,40 +6,22 @@
             "repository_url" : "https://github.com/androidstarters/kotlin-android-starter.git",
             "repository_branch" : "develop"
         },{
-            "title"      : "Google Sample Dagger 2 MVP",
+            "title"      : "Google MVP + Clean Architecture",
             "description": "",
-            "repository_url" : "https://github.com/googlesamples/android-architecture.git",
+            "repository_url" : "https://github.com/murijr/android-architecture.git",
+            "repository_branch" : "todo-mvp-clean",
+            "project_dir": "todoapp"
+        },{
+            "title"      : "Google MVP + Dagger2 + Dagger-Android",
+            "description": "",
+            "repository_url" : "https://github.com/murijr/android-architecture.git",
             "repository_branch" : "todo-mvp-dagger",
             "project_dir": "todoapp"
         },{
-            "title"      : "Google Sample RXJava MVP",
+            "title"      : "Google MVVM Live",
             "description": "",
-            "repository_url" : "https://github.com/googlesamples/android-architecture.git",
-            "repository_branch" : "todo-mvp-rxjava",
-            "project_dir": "todoapp"
-        },{
-            "title"      : "Google Sample Kotlin MVP",
-            "description": "",
-            "repository_url" : "https://github.com/googlesamples/android-architecture.git",
-            "repository_branch" : "dev-todo-mvp-kotlin",
-            "project_dir": "todoapp"
-        },{
-            "title"      : "Google Sample Kotlin MVVM",
-            "description": "",
-            "repository_url" : "https://github.com/googlesamples/android-architecture.git",
-            "repository_branch" : "dev-todo-mvvm-live-kotlin",
-            "project_dir": "todoapp"
-        },{
-            "title"      : "Google Sample Room MVP",
-            "description": "",
-            "repository_url" : "https://github.com/googlesamples/android-architecture.git",
-            "repository_branch" : "dev-todo-mvp-room",
-            "project_dir": "todoapp"
-        },{
-            "title"      : "Google Sample RXJava MVVM",
-            "description": "",
-            "repository_url" : "https://github.com/googlesamples/android-architecture.git",
-            "repository_branch" : "dev-todo-mvvm-rxjava",
+            "repository_url" : "https://github.com/murijr/android-architecture.git",
+            "repository_branch" : "todo-mvvm-live",
             "project_dir": "todoapp"
         }
         
